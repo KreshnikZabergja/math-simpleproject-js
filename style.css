@@ -1,0 +1,45 @@
+body{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+#number1{
+    font-size: 45px;
+    font-weight: bold;
+    border: 5px solid green;
+    padding: 50px;
+}
+
+#number2{
+    font-size: 45px;
+    font-weight: bold;
+    border: 5px solid rgb(8, 45, 146);
+    padding: 50px;
+}
+.plus{
+    font-size: 45px;
+    font-weight: bold;
+}
+.equal{
+    font-size: 45px;
+    font-weight: bold;   
+}
+#text{
+    padding: 10px;
+    border: 2px solid orange;
+}
+
+#content{
+    width: 750px;
+    height: 350px;
+    background-color: yellow;
+    margin-top: 300px;
+}
+#btn{
+    background-color: red;
+    color: #fff;
+    padding: 12px;
+    border-style: none;
+    font-weight: bold;
+    width: 100px;
+}
